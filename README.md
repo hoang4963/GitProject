@@ -1,4 +1,2 @@
 
-bai kho qua
-sua roi
-day len thoi
+cuoi cung cung day len duoc
